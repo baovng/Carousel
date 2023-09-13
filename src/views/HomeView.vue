@@ -34,7 +34,7 @@
 			<div class="carousel-inner">
 				<div class="carousel-item active item1"><div>First Slide</div></div>
 				<div class="carousel-item item2"><div>Second Slide</div></div>
-				<div class="carousel-item item3"><div>Thrid Slide</div></div>
+				<div class="carousel-item item3"><div>Third Slide</div></div>
 			</div>
 			<button
 				class="carousel-control-prev"
