@@ -93,4 +93,11 @@
 	.item3 {
 		background-image: url('../assets/3.jpg');
 	}
+
+	@media (max-width: 550px) {
+		.carousel-item {
+			font-size: 25px;
+			letter-spacing: 5px;
+		}
+	}
 </style>
